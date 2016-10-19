@@ -54,14 +54,22 @@
 		CE7A0B6E1DB7458B000C27CE /* Calculator Smarter Version */ = {
 			isa = PBXGroup;
 			children = (
-				CE7A0B6F1DB7458B000C27CE /* AppDelegate.swift */,
 				CE7A0B711DB7458B000C27CE /* ViewController.swift */,
 				CE7A0B731DB7458B000C27CE /* Main.storyboard */,
+				CE7A0B811DB745FF000C27CE /* Supporting Files */,
+			);
+			path = "Calculator Smarter Version";
+			sourceTree = "<group>";
+		};
+		CE7A0B811DB745FF000C27CE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
 				CE7A0B761DB7458B000C27CE /* Assets.xcassets */,
 				CE7A0B781DB7458B000C27CE /* LaunchScreen.storyboard */,
 				CE7A0B7B1DB7458B000C27CE /* Info.plist */,
+				CE7A0B6F1DB7458B000C27CE /* AppDelegate.swift */,
 			);
-			path = "Calculator Smarter Version";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
