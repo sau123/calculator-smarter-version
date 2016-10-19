@@ -7,6 +7,10 @@
 //
 
 import UIKit
+/*
+ 1) Made use of stack view for auto layouting.
+ 2) modelled the brain of the calculator.
+ */
 
 class ViewController: UIViewController {
     
