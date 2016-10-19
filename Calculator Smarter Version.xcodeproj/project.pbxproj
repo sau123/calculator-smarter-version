@@ -12,6 +12,7 @@
 		CE7A0B751DB7458B000C27CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7A0B731DB7458B000C27CE /* Main.storyboard */; };
 		CE7A0B771DB7458B000C27CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7A0B761DB7458B000C27CE /* Assets.xcassets */; };
 		CE7A0B7A1DB7458B000C27CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7A0B781DB7458B000C27CE /* LaunchScreen.storyboard */; };
+		CE7A0B831DB75146000C27CE /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7A0B821DB75146000C27CE /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CE7A0B761DB7458B000C27CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE7A0B791DB7458B000C27CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE7A0B7B1DB7458B000C27CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE7A0B821DB75146000C27CE /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				CE7A0B711DB7458B000C27CE /* ViewController.swift */,
 				CE7A0B731DB7458B000C27CE /* Main.storyboard */,
+				CE7A0B821DB75146000C27CE /* CalculatorBrain.swift */,
 				CE7A0B811DB745FF000C27CE /* Supporting Files */,
 			);
 			path = "Calculator Smarter Version";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE7A0B831DB75146000C27CE /* CalculatorBrain.swift in Sources */,
 				CE7A0B721DB7458B000C27CE /* ViewController.swift in Sources */,
 				CE7A0B701DB7458B000C27CE /* AppDelegate.swift in Sources */,
 			);
